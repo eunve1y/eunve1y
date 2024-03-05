@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=김은영의%20GitHub💻&fontSize=90&animation=fadeIn&fontAlignY=38&desc=💖Welcome%20to%20my%20GitHub%20Profile!💖&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=F5A9D0&height=300&section=header&text=김은영의%20GitHub💻&fontSize=90&animation=fadeIn&fontAlignY=38&desc=💖Welcome%20to%20my%20GitHub%20Profile!💖&descAlignY=51&descAlign=62"/>
 </p>
 
 <!--내용 부분-->
