@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Miricanvase-32CD32.svg?style=for-the-badge" />&nbsp
 </div>
 
 <br>
@@ -35,6 +38,10 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Slack-FE2E64.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -55,4 +62,5 @@
   <a href="mailto:mozzi0324@naver.com">
     <img
       src="https://img.shields.io/badge/mozzi0324@naver.com-F6CEEC?style=for-the-badge&logo=maildotcom&logoColor=white"/>&nbsp
-
+  </a>
+</div>
