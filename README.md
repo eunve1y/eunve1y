@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Miricanvase-32CD32.svg?style=for-the-badge" />&nbsp
 </div>
 
 <br>
@@ -42,6 +41,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Miricanvase-32CD32.svg?style=for-the-badge" />&nbsp
 </div>
 
 <br>
