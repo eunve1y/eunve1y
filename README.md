@@ -61,7 +61,7 @@
 
 <h3 align="center">📩 Contact </h3>
 <div align="center">
-  <a href="https://www.instagram.com/eun_ve1y_/">
+  <a href="https://www.instagram.com//">
     <img src="https://img.shields.io/badge/Instagram-FA58AC?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
   <a href="mailto:mozzi0324@naver.com">
