@@ -28,12 +28,15 @@
     <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
 </div>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=black" />&nbsp
+</div>
+
 <br>
 
 <h3 align="center">🖥️ Studying Plan 🖱️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
 <br>
