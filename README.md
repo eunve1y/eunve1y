@@ -43,9 +43,8 @@
 
 <br>
 
-<h4 align="left">Backend &amp; platforms</h4>
+<h4 align="left">BaaS (managed backends)</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
 </div>
