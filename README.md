@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left"><strong>Tech Stack</strong></h2>
 
 <h4 align="left">Languages</h4>
 <div align="left">
@@ -55,7 +55,7 @@
 
 <hr />
 
-<h3 align="left">Contact</h3>
+<h2 align="left"><strong>Contact</strong></h2>
 <div align="left">
   <a href="https://github.com/eunve1y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
