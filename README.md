@@ -29,6 +29,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -37,9 +39,10 @@
 <br>
 
 <h4 align="left">Computer Vision, Deep Learning &amp; Data</h4>
-<p align="left">PyTorch for real-time, camera-based video understanding (CNN, RNN/LSTM-style temporal modeling, transformer-style fusion), including preprocessing and model evaluation. Pandas &amp; NumPy for analysis workflows (including BDA-oriented big-data practice).</p>
+<p align="left">PyTorch for real-time, camera-based video understanding (CNN, RNN/LSTM-style temporal modeling, transformer-style fusion); OpenCV for video I/O and preprocessing; model training and evaluation. Pandas &amp; NumPy for analysis workflows (including BDA-oriented big-data practice).</p>
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </div>
