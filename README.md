@@ -13,7 +13,6 @@
 <br>
 
 <h3 align="left">Tech Stack</h3>
-<p align="left">Aligned with shipped web &amp; mobile products, BDA-style data practice, NAVER Cloud HyperCLOVA&nbsp;X hackathon experience, and first-author computer vision research (KCI / ICROS).</p>
 
 <h4 align="left">Languages</h4>
 <div align="left">
@@ -39,7 +38,8 @@
 <br>
 
 <h4 align="left">Computer Vision, Deep Learning &amp; Data</h4>
-<p align="left">PyTorch for real-time, camera-based video understanding (CNN, RNN/LSTM-style temporal modeling, transformer-style fusion); OpenCV for video I/O and preprocessing; model training and evaluation. Pandas &amp; NumPy for analysis workflows (including BDA-oriented big-data practice).</p>
+<p align="left"><strong>Publication (first author):</strong> <em>A Hybrid Spatiotemporal Fusion Model for Real-time Fall Detection</em> — <i>Journal of Institute of Control, Robotics and Systems</i> (ICROS, KCI-listed), Vol.&nbsp;32, No.&nbsp;2, 2026, pp.&nbsp;307–316. DOI: <a href="https://doi.org/10.5302/J.ICROS.2026.25.0248">10.5302/J.ICROS.2026.25.0248</a>.</p>
+<p align="left">Implementation and experiments use PyTorch (CNN, RNN/LSTM-style temporal blocks, transformer-style fusion), OpenCV for camera video I/O and preprocessing, and Pandas/NumPy for data handling and evaluation.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
