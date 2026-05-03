@@ -33,9 +33,12 @@
 
 <br>
 
-<h3 align="center">🖥️ Studying Plan 🖱️</h3>
-<div align="center">
-</div>
+<p align="center">
+  <a href="https://tokscale.ai/u/eunve1y">
+    <img src="https://tokscale.ai/api/embed/eunve1y/svg?theme=light" alt="Tokscale Stats" />
+  </a>
+</p>
+
 <br>
 
 <h3 align="center">🪓 Tools</h3>
