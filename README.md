@@ -16,7 +16,7 @@
 
 <h2 align="left"><strong>Tech Stack</strong></h2>
 
-<h4 align="left">Languages</h4>
+<h4 align="left">· Languages</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
@@ -26,7 +26,7 @@
 
 <br>
 
-<h4 align="left">Web &amp; App</h4>
+<h4 align="left">· Web &amp; App</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -43,7 +43,7 @@
 
 <br>
 
-<h4 align="left">BaaS (managed backends)</h4>
+<h4 align="left">· BaaS (managed backends)</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
@@ -51,7 +51,7 @@
 
 <br>
 
-<h4 align="left">Computer Vision, Deep Learning &amp; Data</h4>
+<h4 align="left">· Computer Vision, Deep Learning &amp; Data</h4>
 <p align="left">
   <a href="https://orcid.org/0009-0001-9014-1397">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" />
