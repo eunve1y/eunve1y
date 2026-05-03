@@ -39,6 +39,11 @@
 
 <h4 align="left">Computer Vision, Deep Learning &amp; Data</h4>
 <p align="left"><strong>Publication (first author):</strong> <em>A Hybrid Spatiotemporal Fusion Model for Real-time Fall Detection</em> — <i>Journal of Institute of Control, Robotics and Systems</i> (ICROS, KCI-listed), Vol.&nbsp;32, No.&nbsp;2, 2026, pp.&nbsp;307–316. DOI: <a href="https://doi.org/10.5302/J.ICROS.2026.25.0248">10.5302/J.ICROS.2026.25.0248</a>.</p>
+<p align="left">
+  <a href="https://orcid.org/0009-0001-9014-1397">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" />
+  </a>
+</p>
 <p align="left">Implementation and experiments use PyTorch (CNN, RNN/LSTM-style temporal blocks, transformer-style fusion), OpenCV for camera video I/O and preprocessing, and Pandas/NumPy for data handling and evaluation.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -56,8 +61,5 @@
   </a>
   <a href="mailto:mozzi0324@naver.com">
     <img src="https://img.shields.io/badge/mozzi0324@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver mail" />
-  </a>
-  <a href="https://orcid.org/0009-0001-9014-1397">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </div>
