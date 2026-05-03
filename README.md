@@ -4,7 +4,7 @@
 </p>
 -->
 
-<p align="center">
+<p align="left">
   <a href="https://tokscale.ai/u/eunve1y">
     <img src="https://tokscale.ai/api/embed/eunve1y/svg?theme=light" alt="Tokscale Stats" />
   </a>
@@ -12,10 +12,10 @@
 
 <br>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
-<h4 align="center">Languages</h4>
-<div align="center">
+<h4 align="left">Languages</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,8 +26,8 @@
 
 <br>
 
-<h4 align="center">Web &amp; Mobile</h4>
-<div align="center">
+<h4 align="left">Web &amp; App</h4>
+<div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React Native" />
@@ -39,15 +39,15 @@
 
 <br>
 
-<h4 align="center">Deep Learning, Data &amp; AI</h4>
-<p align="center">Neural networks, computer vision, and AI research — including academic publications.</p>
-<div align="center">
+<h4 align="left">Deep Learning, Data &amp; AI</h4>
+<p align="left">Neural networks, computer vision, and AI research — including academic publications.</p>
+<div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -56,8 +56,8 @@
 
 <br>
 
-<h3 align="center">Contact</h3>
-<div align="center">
+<h3 align="left">Contact</h3>
+<div align="left">
   <a href="https://github.com/eunve1y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
