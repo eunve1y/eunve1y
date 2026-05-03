@@ -12,6 +12,8 @@
 
 <br>
 
+<hr style="height: 0; margin: 20px 0; border: 0; border-top: 1px solid #d0d7de;" />
+
 <h2 align="left"><strong>Tech Stack</strong></h2>
 
 <h4 align="left">Languages</h4>
@@ -53,7 +55,7 @@
 
 <br>
 
-<hr />
+<hr style="height: 0; margin: 20px 0; border: 0; border-top: 1px solid #d0d7de;" />
 
 <h2 align="left"><strong>Contact</strong></h2>
 <div align="left">
