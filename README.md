@@ -53,7 +53,12 @@
 
 ### Publication
 
-- **ORCID:** [0009-0001-9014-1397](https://orcid.org/0009-0001-9014-1397)
+<p align="left">
+  <a href="https://orcid.org/0009-0001-9014-1397">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" />
+  </a>
+</p>
+
 - **Publication (first author):** *A Hybrid Spatiotemporal Fusion Model for Real-time Fall Detection* — *Journal of Institute of Control, Robotics and Systems* (ICROS, KCI-listed), Vol. 32, No. 2, 2026, pp. 307–316. DOI: [10.5302/J.ICROS.2026.25.0248](https://doi.org/10.5302/J.ICROS.2026.25.0248).
 
 <br>
