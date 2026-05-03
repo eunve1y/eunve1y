@@ -63,8 +63,6 @@
 
 <br>
 
-<hr style="height: 0; margin: 20px 0; border: 0; border-top: 1px solid #d0d7de;" />
-
 <h2 align="left"><strong>Contact</strong></h2>
 <div align="left" style="padding-left: 1.5em;">
   <a href="https://github.com/eunve1y">
