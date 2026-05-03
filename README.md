@@ -64,4 +64,7 @@
   <a href="mailto:mozzi0324@naver.com">
     <img src="https://img.shields.io/badge/mozzi0324@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver mail" />
   </a>
+  <a href="https://orcid.org/0009-0001-9014-1397">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
 </div>
