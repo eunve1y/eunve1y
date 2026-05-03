@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" />
   </a>
 </p>
-<p align="left">Implementation and experiments use PyTorch (CNN, RNN/LSTM-style temporal blocks, transformer-style fusion), OpenCV for camera video I/O and preprocessing, and Pandas/NumPy for data handling and evaluation.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -53,6 +52,8 @@
 </div>
 
 <br>
+
+<hr />
 
 <h3 align="left">Contact</h3>
 <div align="left">
