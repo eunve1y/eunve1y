@@ -53,7 +53,7 @@
 
 ### Publication
 
-<p align="left">
+<p align="left" style="padding-left: 1.5em;">
   <a href="https://orcid.org/0009-0001-9014-1397">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" />
   </a>
@@ -66,7 +66,7 @@
 <hr style="height: 0; margin: 20px 0; border: 0; border-top: 1px solid #d0d7de;" />
 
 <h2 align="left"><strong>Contact</strong></h2>
-<div align="left">
+<div align="left" style="padding-left: 1.5em;">
   <a href="https://github.com/eunve1y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
