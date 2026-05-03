@@ -4,72 +4,11 @@
 </p>
 -->
 
-<h3 align="center">🌠 Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffdd54" />
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-    <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"/>
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</div>
-
-<br>
-
 <p align="center">
   <a href="https://tokscale.ai/u/eunve1y">
     <img src="https://tokscale.ai/api/embed/eunve1y/svg?theme=light" alt="Tokscale Stats" />
   </a>
 </p>
-
-<br>
-
-<h3 align="center">🪓 Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/Slack-FE2E64.svg?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miricanvase-32CD32.svg?style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=VSCode&logoColor=22ABF3" />
-  <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">📩 Contact </h3>
-<div align="center">
-  <a href="https://www.instagram.com//">
-    <img src="https://img.shields.io/badge/Instagram-FA58AC?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mozzi0324@naver.com">
-    <img src="https://img.shields.io/badge/mozzi0324@naver.com-F6CEEC?style=for-the-badge&logo=maildotcom&logoColor=white"/>
-  </a>
-</div>
 
 <br><br>
 
